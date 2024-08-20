@@ -1,0 +1,12 @@
+pre {
+    font-family: arial;
+}
+#wutiwant {
+  background-color: transparent; 
+  border: none;
+  cursor:crosshair;
+}
+#wutiwantimg {
+    width:100px;
+    height: 100px;
+}
